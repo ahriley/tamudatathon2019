@@ -2,7 +2,7 @@
 ## Project Title: "Taco 'Bout It!"
 
 ![Map of Taco/Burrito Restaurants per US city](mexican_restaurants.png)
-
+ 
 ## Inspiration
 Tacos and burritos are delicious, obviously!!!
 
@@ -33,4 +33,4 @@ Clean up the code a little bit, make a visualization of all the authentic tacos/
 `plotly`
 `python`
 
-
+We did this project as part of the very first [TAMU Datathon](https://tamudatathon.com). You can also view our project summary on [Devpost](https://devpost.com/software/taco-bout-it-dw6zpu). 
